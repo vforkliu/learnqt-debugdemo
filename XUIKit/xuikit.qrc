@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/com/xkit/ui">
+        <file alias="FolderTreeView.qml">qml/FolderTreeView.qml</file>
+    </qresource>
+</RCC>
